@@ -39,7 +39,7 @@ Note: To install the libraries, open your Arduino IDE, go to Sketch > Include Li
     - CS to D8 (GPIO 15)
 
        ![ESP8266-MPU6050-SDCard Module](https://i.ibb.co/wMrVvhK/v2.png)
- 
+ **NOTE**: The figure above does not show the VCC and Ground pins being connected. Link the **VCC pin** of both the MPU-6050 and the SD-Card-Module to the **3V pin** on the ESP8266. Similarly, connect the **ground pins of the MPU-6050 and SD-Card-Module** to the **ground pin of the ESP8266**.
     
 
 # Software Setup
