@@ -38,8 +38,8 @@ Note: To install the libraries, open your Arduino IDE, go to Sketch > Include Li
     - SCK to D5 (GPIO 14)
     - CS to D8 (GPIO 15)
         
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/300b6f26-bc0b-43a1-b242-19f1f875dac9/Untitled.png)
-        
+    ![alt text]([http://url/to/img.png](https://i.ibb.co/wMrVvhK/v2.png))
+    
 
 # Software Setup
 
