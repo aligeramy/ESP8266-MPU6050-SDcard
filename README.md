@@ -38,7 +38,8 @@ Note: To install the libraries, open your Arduino IDE, go to Sketch > Include Li
     - SCK to D5 (GPIO 14)
     - CS to D8 (GPIO 15)
 
-       ![ESP8266-MPU6050-SDCard Module](https://i.ibb.co/wMrVvhK/v2.png)
+![ESP8266-MPU6050-SDCard Module](https://i.ibb.co/wMrVvhK/v2.png)
+
  **NOTE**: The figure above does not show the VCC and Ground pins being connected. Link the **VCC pin** of both the MPU-6050 and the SD-Card-Module to the **3V pin** on the ESP8266. Similarly, connect the **ground pins of the MPU-6050 and SD-Card-Module** to the **ground pin of the ESP8266**.
     
 
@@ -140,9 +141,8 @@ Materials needed:
 7. Breadboard and Jumper Wires
 
 ![L7805 LM7805 7805 Voltage Regulator](https://i.ibb.co/mtHk5sG/Voltage-Regulator.png)
-**Note:** The figure above is just an example on how to connect a Voltage Regulator/Electrolytic Capacitors. 
 
-Please follow the instructions below:
+**Note: The figure above is just an example on how to connect a Voltage Regulator/Electrolytic Capacitors. Please follow the instructions below.**
 
 Instructions:
 
