@@ -37,8 +37,9 @@ Note: To install the libraries, open your Arduino IDE, go to Sketch > Include Li
     - MOSI to D7 (GPIO 13)
     - SCK to D5 (GPIO 14)
     - CS to D8 (GPIO 15)
-        
-    ![alt text]([http://url/to/img.png](https://i.ibb.co/wMrVvhK/v2.png))
+
+       ![ESP8266-MPU6050-SDCard Module](https://i.ibb.co/wMrVvhK/v2.png)
+ 
     
 
 # Software Setup
@@ -126,7 +127,7 @@ Now each row in your CSV file represents one reading with the timestamp (millise
 
 Please ensure your connections are correct, as incorrect connections may lead to failure in data logging or could potentially harm your devices. Also, note that the Arduino library names and their setup functions may vary, depending on the libraries you use.
 
-# How to power the thing
+# How to power the device
 
 Materials needed:
 
@@ -138,7 +139,7 @@ Materials needed:
 6. 9V Battery with battery clip
 7. Breadboard and Jumper Wires
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/933c3815-7f9f-49fd-9f88-ef908ccce2b7/Untitled.png)
+![L7805 LM7805 7805 Voltage Regulator](https://i.ibb.co/mtHk5sG/Voltage-Regulator.png)
 
 Instructions:
 
