@@ -140,7 +140,7 @@ Materials needed:
 6. 9V Battery with battery clip
 7. Breadboard and Jumper Wires
 
-![L7805 LM7805 7805 Voltage Regulator](https://i.ibb.co/mtHk5sG/Voltage-Regulator.png)
+![L7805 LM7805 7805 Voltage Regulator]([https://i.ibb.co/mtHk5sG/Voltage-Regulator.png](https://i.ibb.co/JymmWqW/68747470733a2f2f692e6962622e636f2f6d74486b3573472f566f6c746167652d526567756c61746f722e706e67.png))
 
 **Note: The figure above is just an example on how to connect a Voltage Regulator/Electrolytic Capacitors. Please follow the instructions below.**
 
