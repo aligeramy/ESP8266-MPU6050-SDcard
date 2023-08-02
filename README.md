@@ -140,6 +140,9 @@ Materials needed:
 7. Breadboard and Jumper Wires
 
 ![L7805 LM7805 7805 Voltage Regulator](https://i.ibb.co/mtHk5sG/Voltage-Regulator.png)
+**Note:** The figure above is just an example on how to connect a Voltage Regulator/Electrolytic Capacitors. 
+
+Please follow the instructions below:
 
 Instructions:
 
